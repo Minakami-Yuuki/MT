@@ -1,2 +1,3 @@
 # Mechine-Translation
-Chinese &amp; English Mechine Translation
+Chinese &amp; English Mechine Translation.
+
