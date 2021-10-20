@@ -23,6 +23,8 @@
         <div class="translate-desc-left">
             MT Tool
         </div>
+        <a type="button" class="translate-bottom" href="nmt_En2Ch.jsp">文字</a>
+        <a type="button" class="translate-bottom" href="nmt_File2Chara.jsp">文档</a>
         <div class="translate-desc-right">
         </div>
     </div>
@@ -37,11 +39,12 @@
                 <label>
                     <textarea class="input-box" name="userInput"><%Object userIntput = request.getAttribute("userInput");if (userIntput != null) {%><%=userIntput.toString()%><% } %></textarea>
                 </label>
+                <input type="submit" class="translate-bottom" value="翻译">
             </div>
             <div class="translate-area-right">
                 <div class="language-choose">
                     <div class="language-select">
-                        英语
+                        英文
                     </div>
                 </div>
                 <div class="input-box box-output">
@@ -51,7 +54,6 @@
                     <%=nmtOutput.toString()%>
                     <% } %>
                 </div>
-                <input type="submit" class="translate-bottom" value="翻译">
                 <a type="submit" class="translate-bottom" href="nmt_En2Ch.jsp">转换</a>
             </div>
         </div>

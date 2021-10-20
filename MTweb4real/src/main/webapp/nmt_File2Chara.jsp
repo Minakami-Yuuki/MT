@@ -35,28 +35,15 @@
                     </div>
                 </div>
                 <label>
-                    <textarea class="input-box" name="userInput"><%Object userIntput = request.getAttribute("userInput");if (userIntput != null) {%><%=userIntput.toString()%><% } %></textarea>
+                    <div class="input-box box-output">
+                        <input type="file">
+                    </div>
                 </label>
                 <input type="submit" class="translate-bottom" value="TransL">
-
-            </div>
-            <div class="translate-area-right">
-                <div class="language-choose">
-                    <div class="language-select">
-                        Chinese
-                    </div>
-                </div>
-                <div class="input-box box-output">
-                    <%Object nmtOutput = request.getAttribute("nmtOutput");
-                       if (nmtOutput != null) {
-                    %>
-                       <%=nmtOutput.toString()%>
-                    <% } %>
-                </div>
-                <a type="submit" class="translate-bottom" href="nmt_Ch2En.jsp">Switch</a>
             </div>
         </div>
     </form>
 </div>
 </body>
 </html>
+
