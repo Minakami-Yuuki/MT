@@ -1,3 +1,3 @@
-# Mechine-Translation
-Chinese &amp; English Mechine Translation.
+# Machine-Translation
+Chinese &amp; English Machine Translation.
 
