@@ -1,0 +1,921 @@
+Preparation
+detection
+manufacturing
+automobile
+control
+led
+robot
+production
+mobile terminal
+portable
+composition
+concrete
+multifunctional
+network
+solar energy
+test
+catalyst
+drug
+sensor
+engine
+regulation
+composite
+automation
+processing
+adaptive
+biology
+controller
+production process
+traditional Chinese medicine
+production line
+fully automatic
+protection
+Air conditioning
+synthesis
+positioning
+integration
+monitoring
+monitoring
+circulation
+combined
+UAV
+Internet of things
+communication
+electric vehicle
+semiconductor
+auxiliary
+bicycle
+preparation process
+connector
+display
+information processing
+video
+polymer
+traditional Chinese medicine combination
+drive
+adjustable
+derivative
+air conditioner
+fiber
+transformer
+sewage treatment
+installation
+generation
+Metal
+neural network
+distributed
+compressor
+operation
+recycling
+data processing
+kit
+ultrasonic
+aluminum alloy
+ceramic
+flame retardant
+electronic equipment
+microorganism
+prediction
+image processing
+intelligence
+health care
+chip
+image
+3D
+aircraft
+film
+biomass
+construction
+work
+polyurethane
+temperature
+connection structure
+generator
+support
+improvement
+Integration
+fermentation
+battery
+mobile
+electric vehicle
+identification
+cutting
+lithium ion battery
+high precision
+manipulator
+filter
+environmental protection
+modularization
+cutting machine
+cleaning
+reactor
+circuit breaker
+plant
+charging
+display
+intelligence
+synchronization
+filtering
+welding
+bracket
+wireless
+adjustable
+treatment
+wood
+solar cell
+compound
+refrigerator
+Connection
+water heater
+stainless steel
+3D
+washing machine
+motorcycle
+processing technology
+heat dissipation
+wireless communication
+intelligent control
+manufacturing technology
+display screen
+radiator
+lithium battery
+traditional Chinese medicine composition
+fault diagnosis
+circuit
+3D printing
+control circuit
+embedded
+repair
+air purification
+rotary
+soil
+composite
+heat exchanger
+Internet
+feed
+clutch
+Switching
+planting
+purification
+data transmission
+integrated
+reactor
+wastewater treatment
+camera
+preparation
+fault
+tracking
+semiconductor device
+liquid crystal display
+virtual reality
+smart home
+automatic control
+carbon fiber
+substation
+reaction
+display panel
+memory
+cultivation
+optimization
+adjustment
+PVC
+removal
+heat treatment
+combination
+capacitor
+road
+drying
+Certification
+dust removal
+product
+switch cabinet
+generator
+motor vehicle
+stability
+pharmaceutical preparation
+driving circuit
+removable
+heavy metal
+inhibitor
+battery
+machinery
+air purifier
+food
+PCB
+preparation
+drug combination
+water-based
+remote
+mixer
+polyethylene
+feed additive
+RF
+intelligent terminal
+assembly
+culture medium
+new energy
+luminescence
+Transmission line
+graphene
+flexible
+online monitoring
+alarm
+transistor
+energy-saving
+node
+extract
+tea
+search
+big data
+automatic detection
+imaging
+early warning
+microwave
+fuel cell
+application
+internal combustion engine
+rotation
+diagnosis
+power generation
+additives
+stirring
+organic fertilizer
+process
+measurement
+RFID
+lighting
+oxide
+modification
+USB
+scheduling
+CNC
+material
+crane
+wind power
+evaluation
+detector
+washer
+application
+folding
+touch screen
+navigation
+cell
+corrosion resistance
+analysis
+gene
+image formation
+diode
+breeding
+cooling
+production equipment
+laser
+split
+cellulose
+burner
+operation
+dryer
+circuit board
+transmission
+pretreatment
+coating
+generator set
+oxidation
+Visualization
+induction
+handheld
+verification
+lubricating oil
+loudspeaker
+refrigeration
+protection circuit
+inspection
+power battery
+compounds
+Chinese herbal medicine
+coal mine
+polypropylene
+dust collector
+rare earth
+improved
+face recognition
+cultivation
+multimedia
+adsorbent
+fuel
+energy saving
+conveyor
+magnetism
+integrated circuit
+products
+intelligent
+recommendation
+reception
+distribution cabinet
+Container
+detector
+transmission
+regulation
+distribution network
+charging pile
+audio
+glasses
+prestress
+combustion
+garden
+array substrate
+children
+charger
+carbon dioxide
+trash can
+compensation
+protection
+database
+sealing structure
+filter
+coating
+remote control
+connector
+vacuum cleaner
+amplifier
+foldable
+laser
+copolymer
+building
+light source
+Activated carbon
+heating
+processor
+FPGA
+brake
+support frame
+container
+laboratory
+printer
+blade
+wireless charging
+unmanned
+wearable
+shock absorption
+sewing machine
+fabric
+adjustable
+high power
+optics
+classification
+animal
+installation structure
+CNC machine tool
+etc.
+configuration
+diesel engine
+transformer
+culture
+plate
+molding machine
+remote control
+Assembly line
+cleaning agent
+degree of freedom
+prevention
+cleaning
+molecular sieve
+building
+motor
+water purifier
+faucet
+steel structure
+pesticide
+flight
+suppression
+dryer
+graphite
+safety
+aircraft
+energy conservation and environmental protection
+optical fiber
+transmission
+heat pump
+antenna
+battery pack
+injection mold
+highway
+anti-theft
+spraying
+cathode material
+temperature control
+data
+online detection
+Cloud computing
+fingerprint identification
+thermoplastic
+inverter
+portable
+seedling raising
+epoxy
+power
+rehabilitation
+maintenance
+DNA
+car seat
+wireless network
+shredder
+touch
+tumor
+machine tool
+storage
+elevator
+crusher
+image recognition
+sealing
+camera
+endoscope
+detector
+keyboard
+coding
+driver
+glass
+water solubility
+playback
+fluidized bed
+Transparency
+rearview mirror
+raw materials
+carbon nanotubes
+mobile
+OLED
+industry
+radar
+mobile equipment
+evaporator
+resin
+protector
+low power consumption
+handling
+multi-channel
+fixed structure
+power system
+access
+deep learning
+nursing
+processing technology
+speech recognition
+brake
+selectivity
+virus
+backlight module
+power equipment
+QR code
+edible fungi
+site
+Medical devices
+purifiers
+disposable
+recovery
+waste heat recovery
+assessment
+waste
+electronic cigarette
+crops
+access
+mechanical
+photovoltaic
+input
+intelligent equipment
+low cost
+support structure
+testing
+non-woven fabrics
+transmission
+feedback
+reliability
+photocatalyst
+signal processing
+visible light
+telescopic
+replacement
+removable
+relay
+diabetes
+Bluetooth
+Natural gas
+router
+stem cell
+X-ray
+detection
+heater
+automatic identification
+camera
+titanium dioxide
+inspection
+composite
+electrochemistry
+interaction
+gearbox
+nonlinear
+degradable
+photocatalysis
+motor
+distribution box
+oxidation resistance
+circuit board
+saline alkali land
+elimination
+notebook
+GPS
+extraction
+potato
+intelligent robot
+silica
+printing
+Single chip microcomputer
+tester
+vision
+encryption
+automatic
+enzyme
+separator
+printer
+adhesive
+update
+anti radiation
+insulator
+anti-static
+remote monitoring
+safety
+multi-purpose
+dishwasher
+protective sleeve
+mechanical arm
+temperature control
+composite
+hydraulic
+insulation board
+scaffold
+photovoltaic module
+integrated
+retrieval
+drying
+textile
+retractable
+therapeutic instrument
+Stereo garage
+automatic adjustment
+regulator
+learning
+maintenance
+solenoid valve
+silicon carbide
+online
+computer
+printing
+power cable
+modulation
+antistatic
+material
+functionality
+protective film
+cosmetics
+fault detection
+personalization
+acquisition
+electrical connector
+spectrum
+nano material
+intermediate
+shock absorber
+PCR
+profile
+large-scale
+intelligent monitoring
+remote control
+High performance
+chitosan
+GIS
+lifting type
+alumina
+electrolyte
+signal
+contact type
+machine vision
+3D printer
+glass fiber
+environment
+driving
+bus
+electric energy meter
+management
+digitization
+switching power supply
+vehicle
+heat exchanger
+extruder
+skeleton
+integral type
+automotive air conditioning
+tobacco
+WiFi
+rail transit
+welding machine
+bus
+gearbox
+FRP
+protein
+performance test
+sub
+lubrication
+face
+train
+angle
+nutrient solution
+reduction
+catalysis
+pressure sensor
+client
+railway
+polishing machine
+medicine
+composite
+mixer
+rotatable
+maintenance
+disinfection
+SCR
+ultrasound
+simulation
+electronic products
+scene
+virtual machine
+panorama
+magnesium alloy
+harvester
+discharge
+disassembly
+automatic cleaning
+Mobile power
+purification
+manufacturing technology
+light weight
+wire rope
+removable
+interactive
+fertilizer
+drinking machine
+safety protection
+PLC
+sludge
+cooking utensils
+atomizer
+excavator
+pig feed
+SAR
+radio
+sealing ring
+bellows
+medical
+helicopter
+household electrical appliances
+controllable
+adhesive
+polyamide
+injection molding machine
+polyimide
+gel
+photovoltaic power generation
+Generation
+circuit
+composite board
+street lamp
+resin combination
+MEMS
+clothing
+oral liquid
+casting
+parking lot
+feeding
+cloud platform
+decoding
+power supply
+scanning
+image display
+preservation
+smartphone
+reflection
+titanium alloy
+user terminal
+clustering
+bumper
+UV line
+wireless sensor
+resource
+suspension
+stamping die
+polymer
+transmission mechanism
+emission
+Recorder
+payment
+PVC
+mechanism
+startup
+parameters
+excavation
+converter
+curing
+damper
+characteristics
+commissioning
+activity
+organic
+waste gas treatment
+fire prevention
+microphone
+waterproof coiled material
+projection
+liquid
+central air conditioning
+interference
+correction
+teaching
+temperature and humidity
+quantum dots
+measuring instrument
+liquid crystal display
+nanoparticles
+screening
+flame retardant
+Polylactic acid
+machine learning
+doors and windows
+protein
+harvester
+wheat
+condenser
+acrylic acid
+continuous
+transmission
+nutrition
+ICT
+magnetic levitation
+high concentration
+high toughness
+training
+alarm
+marker
+power
+flowmeter
+projector
+frame
+fixed frame
+unlocking
+access control
+socket
+regeneration
+waste treatment
+immunity
+water reducer
+primer
+power supply
+nano
+Silicone
+pesticide
+ABS
+aluminum profile
+high purity
+lens
+anti-counterfeiting
+microsphere
+headset
+two-dimensional
+parallel
+compact
+garbage
+particle
+data acquisition
+temperature sensor
+lamp
+vacuum
+estimation
+anti-tumor
+movable
+formula
+steam turbine
+nuclear power station
+herbicide
+environmental protection
+bearing
+perception
+trunk
+video monitoring
+image segmentation
+Amino acid
+heating furnace
+image sensor
+safety belt
+preservative
+composite film
+touch display
+greenhouse
+negative material
+surface treatment
+expansion
+cooling tower
+voice
+sub
+drilling
+driving mechanism
+supercritical
+waste heat
+plasma
+communication
+automatic transmission
+frequency conversion
+pet
+infants
+liquefaction
+health wine
+data storage
+app
+chassis
+TV
+Construction technology
+medicine
+vacuum pump
+thermal insulation
+elastomer
+pressure
+capsule
+multi angle
+regulator
+receiver
+advertisement
+parking
+cable
+compound fertilizer
+microcapsule
+material
+alloy
+led
+oilfield
+permanent magnet synchronization
+bus
+status detection
+separation
+pollution
+augmented reality
+real-time monitoring
+mouse
+driver
+artificial intelligence
+frequency converter
+Disease
+condition monitoring
+adsorption
+high density
+health tea
+water tank
+protocol
+removal
+specificity
+blueberry
+engineering machinery
+NFC
+agriculture
+electrode materials
+motor vehicle
+seat
+size
+forklift
+aquaculture
+acrylate
+centrifugation
+water purifier
+wood plastic
+transport vehicle
+electrolyte
+mine
+capacitive
+infrared
+omni-directional
+fixture
+screen
+Syringe
+multi-target
+self-cleaning
+kiwi fruit
+ventilation
+lubricant
+control valve
+LNG
+range hood
+wall mounted
+polysilicon
+response
+prefabrication
+centrifuge
+corn
+pet
+dustproof
+safe
+IGBT
+record
+
