@@ -32,7 +32,7 @@ parse.add_argument("-src_dir", "--src_dir_path", help="src dir path", default="E
 ## 示例
 
 ```sh
- python .\Baidu_Text_transAPI.py -src_dir .\subtext_100\ -tgt_dir .\translate_text\ -log .\log.txt -start 7319 -end 7999 -id 20210916000946408 -key F1m9uev7TjiMWDreh8wq
+ python .\Baidu_Text_transAPI.py -src_dir .\subtext_100\ -tgt_dir .\translate_text\ -log .\log.txt -start 6843 -end 6999 -id 20210916000946408 -key F1m9uev7TjiMWDreh8wq
 ```
 
 ### 开始
