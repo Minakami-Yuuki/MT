@@ -169,8 +169,11 @@
 #### 4. 启动和关闭Kibana
 
 ```
-	后台启动：(在kibana当前目录下)
+	实时启动：(在kibana当前目录下)
 		./kibana &
+	后台启动：(在kibana当前目录下)
+		kibana > kibana.log 2>&1 &
+		(默认创建log日志文件, 而后可通过实时启动自动开启后台服务)
 		
 	关闭：
 		# 查询进程
@@ -184,4 +187,51 @@
 	打开如下图所示：
 ```
 
-![image-20211208164032217](../../../vscode_workSpace/cpp_advanced_resource/讲义/assets/image-20211208164032217.png)
+#### 5. _bulk多数据插入语法
+
+```
+	# bulk:
+	POST /es/MT/_bulk
+	{"index": {"_id":""}}
+	{"Chinese":"", "English":""}
+	(默认目录：es/MT)
+```
+
+#### 6. 查询中英文对照语法
+
+```
+GET es/MT/_search
+{
+    "query": 
+    {
+        "bool": 
+        {
+        "must": 
+        [
+            {
+                "match_phrase": 
+                { "English.keyword": ""}
+             }
+        ]
+        }
+     }
+}
+
+GET es/MT/_search
+{
+    "query": 
+    {
+        "bool": 
+        {
+        "must": 
+        [
+            {
+                "match_phrase": 
+                { "Chinese.keyword": ""}
+             }
+        ]
+        }
+     }
+}
+```
+
